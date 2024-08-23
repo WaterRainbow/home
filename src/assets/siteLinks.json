@@ -1,14 +1,14 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "卡网",
+    "link": "https://wrxander.sbs/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
+#    "icon": "Cloud",
+#    "name": "网盘",
+#    "link": "https://pan.imsyy.top/"
+#  },
   {
     "icon": "CompactDisc",
     "name": "音乐",
